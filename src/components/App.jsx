@@ -6,7 +6,7 @@ function createEntry(entry) {
     <Entry
       name={entry.name}
       emoji={entry.emoji}
-      meaning={entry.meaning}
+      meaning={entry.meaning.substring(0, 101)}
       key={entry.id}
       id={entry.id}
     />
