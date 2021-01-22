@@ -22,17 +22,17 @@ const emojipedia = [
   },
   {
     id: 4,
-    emoji: "🤣",
-    name: "Rolling On The Floor, Laughing",
+    emoji: "🥰",
+    name: "Smiling face with smiling eyes and three hearts",
     meaning:
-      "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+      "You are in love, sitting on cloud number nine. The romantic emoji with the enamored expression of the face stands for affairs of the heart“."
   },
   {
     id: 5,
-    emoji: "🤣",
-    name: "Rolling On The Floor, Laughing",
+    emoji: "😀",
+    name: "Smiling Face With Open Mouth",
     meaning:
-      "This is funny! A smiley face, rolling on the floor, laughing. The face is laughing boundlessly. The emoji version of “rofl“. Stands for „rolling on the floor, laughing“."
+      "Typical smiley face with open mouth and oval eyes. Is in a positive mood, shows its teeth and laughs cheerfully. Expresses enthusiasm: from a cheerful greeting to boundless joy."
   }
 ];
 
